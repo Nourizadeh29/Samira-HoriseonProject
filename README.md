@@ -1,2 +1,7 @@
 # SamiraHoriseonProject
-code for HW
+
+## Description 
+Horiseon Online Business Services.
+## Authors
+Horiseon Developers
+
